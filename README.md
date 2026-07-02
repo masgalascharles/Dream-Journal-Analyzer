@@ -7,7 +7,7 @@ dreams/\
 ├── 1.txt\
 ├── 2.txt\
 ├── 3.txt\
-└── ...\
+└── ...
 
 Each file contains two lines:
 ```
