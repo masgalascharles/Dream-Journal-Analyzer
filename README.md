@@ -17,7 +17,7 @@ Dream entry
 
 ## How It Works
 ### 1. Generate embeddings
-Each dream entry is converted into a 768-dimensional vector using the `all-mpnet-base-v2` SentenceTransformer model.
+Each dream entry is converted into a 768-dimensional semantic embedding using the `all-mpnet-base-v2` SentenceTransformer model.
 ### 2. Similarities Matrix
 Cosine similarity is calculated between each pair of dreams and stored in a matrix.
 ### 3. Clustering
@@ -29,19 +29,19 @@ A scatter plot of the cluster assigned to each dream over time and a heatmap of 
 
 ## How to Run
 1.
-```bash
+```cmd
 git clone https://github.com/masgalascharles/Dream-Journal-Analyzer.git
 ```
 2.
-```bash
+```cmd
 pip install -r requirements.txt
 ```
 3.
-```bash
-export GROQ_API_KEY=your_key_here
+```cmd
+set GROQ_API_KEY=your_key_here
 ```
 4.
-```bash
+```cmd
 python -m streamlit run app.py
 ```
 
