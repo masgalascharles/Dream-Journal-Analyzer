@@ -1,6 +1,6 @@
 # Dream-Journal-Analyzer
 I have been writing down my dreams every morning for the past months. I got the idea to analyze my dream journal to see frequent patterns over time. I used cosine similarity and agglomerative clustering, plus `llama-3.3-70b-versatile` to name the clusters.\
-**FOR PRIVACY REASONS, I HAVE NOT INCLUDED MY PERSONAL DREAM JOURNAL ON THIS REPOSITORY. A SAMPLE DATASET HAS BEEN PROVIDED**
+**FOR PRIVACY REASONS, I HAVE NOT INCLUDED MY PERSONAL DREAM JOURNAL IN THIS REPOSITORY. A SAMPLE DATASET HAS BEEN PROVIDED.**
 
 ## Dataset Format
 dreams/\
