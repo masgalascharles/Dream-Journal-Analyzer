@@ -3,11 +3,11 @@ I have been writing down my dreams every morning for the past months. I got the 
 **FOR PRIVACY REASONS, I HAVE NOT INCLUDED MY PERSONAL DREAM JOURNAL ON THIS REPOSITORY. A SAMPLE DATASET HAS BEEN PROVIDED**
 
 ## Dataset Format
-dreams/
-├── 1.txt
-├── 2.txt
-├── 3.txt
-└── ...
+dreams/\
+├── 1.txt\
+├── 2.txt\
+├── 3.txt\
+└── ...\
 
 Each file contains two lines:
 ```
