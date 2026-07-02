@@ -45,6 +45,7 @@ export GROQ_API_KEY=your_key_here
 python -m streamlit run app.py
 ```
 
+## Screenshots
 <img width="576" height="464" alt="image" src="https://github.com/user-attachments/assets/4416dc6d-99cc-4800-810d-6c0d6fcb7133" />
 <img width="523" height="467" alt="image" src="https://github.com/user-attachments/assets/c796b491-e343-4eed-b9d9-ac6138af2fb9" />
 <img width="522" height="365" alt="image" src="https://github.com/user-attachments/assets/3781f3cf-5a29-4d23-8045-486d6130a39d" />
